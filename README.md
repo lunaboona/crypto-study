@@ -28,7 +28,11 @@ Para decriptografar, o mesmo processo ocorre, porém ao contrário:
 
 Neste exemplo, o usuário entrou com um texto e a _seed_ de 78, obtendo assim o texto criptografado. Colocando o texto criptografado e a mesma seed, o texto original é obtido.
 
-![](./example.png)
+![](./example-1.png)
+
+Para demonstrar a importância da seed, o próximo exemplo mostra o usuário tentando decriptografar o texto criptografado do exemplo anterior, porém com a seed incorreta:
+
+![](./example-2.png)
 
 ## Conclusão
 
