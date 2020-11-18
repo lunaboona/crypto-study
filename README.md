@@ -6,6 +6,10 @@ Estudo de criptografia para a matéria de Gestão de Sistemas Operacionais.
 
 O algoritmo de criptografia foi criado utilizando JavaScript, mais especificamente designado para rodar utilizando `Node.js`. O usuário deve inserir um texto (o _input_) e um número entre 1 e 128 (a _seed_), assim obterá um texto criptografado.
 
+## Utilização
+
+`$ node .\crypto.js <encrypt|decrypt> <input> <seed>`
+
 ## Lógica
 
 Para criptografar:
